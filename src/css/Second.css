@@ -1,0 +1,23 @@
+.second{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+}
+
+.second img{
+    width: 600px;
+}
+
+.cajas{
+    padding-top: 30px;
+}
+
+table {
+    border-spacing:20px;
+    background-color: #f9f9f9;
+  }
+
+td{    
+    background-color: white;
+    text-align: center;
+}
