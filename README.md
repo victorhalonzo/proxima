@@ -1,4 +1,6 @@
 # proxima
 Proxima test
 
-This code must be executed with Node.js
+Copy the folder to a pc which have installed Node.js
+Open the command prompt and locate in the directory.
+Execute the command npm start.
